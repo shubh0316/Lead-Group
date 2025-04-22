@@ -79,6 +79,7 @@ function Footer() {
                                     <li key={link.name}>
                                         <a 
                                             href={link.href} 
+                                            target='_blank'
                                             className="hover:text-[#221E52] transition-colors"
                                         >
                                             {link.name}
