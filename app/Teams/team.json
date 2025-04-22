@@ -1,0 +1,403 @@
+
+{
+    "groups": [
+      {
+        "group": 1,
+        "mentor": "Loluck Baby",
+        "mentorPhoto": "/mentors/LoluckBaby.jpeg",
+        "project": "Creating a New Parent Orientation Deck and strategies to increase parent attendance in school events.",
+        "students": [
+          {
+            "name": "S.Geethapriya",
+            "grade": "Grade 8",
+            "school": "CEOA Matriculation Hr. Sec. School, Melur",
+            "photo": "https://drive.google.com/file/d/1_Va78AntgzFxkyzDzqOuY6zOqfGvFMXK/view?usp=drive_link"
+          },
+          {
+            "name": "Zara Rafiq",
+            "grade": "Grade 7",
+            "school": "Peace School",
+            "photo": "https://drive.google.com/file/d/1NZLlFD8jmm51YJ66Mck-5kVqWtWTZa2n/view?usp=sharing"
+          },
+          {
+            "name": "Ayushman Prakash",
+            "grade": "Grade 8",
+            "school": "Delhi Public School, Lagma",
+            "photo": "https://drive.google.com/open?id=1kvkPwTWmz0Oxv37eJp1DLtudu-QOmHCx"
+          },
+          {
+            "name": "Tejasri. J. U",
+            "grade": "Grade 8",
+            "school": "Little Flower Matriculation Hr. Sec School",
+            "photo": "https://drive.google.com/file/d/1h2YmSLKzvhTynSFTvAIPlg7jw7CR4RDi/view?usp=drive_link"
+          },
+          {
+            "name": "Kashyap R Nambiar",
+            "grade": "Grade 7",
+            "school": "Maithry Vidyaniketan School",
+            "photo": "https://drive.google.com/file/d/1UdesG2iNB-wlkNIZjOXfatFsq5WDgkBk/view?usp=drive_link"
+          },
+          {
+            "name": "Jazeel Hatim",
+            "grade": "Grade 8",
+            "school": "Sristi Global School",
+            "photo": "https://drive.google.com/open?id=1kRgaeK24hYRlYsp6E__AA_KF07Ay85u2"
+          }
+        ]
+      },
+      {
+        "group": 2,
+        "mentor": "AV Krishna Chaitanya",
+        "mentorPhoto": "/mentors/KrishnaChaitanya.jpeg",
+        "project": "Creating a framework for vocational studies curriculum in line with NCF.",
+        "students": [
+          {
+            "name": "Anirudh Saji",
+            "grade": "Grade 8",
+            "school": "Nagamaniammal Memorial Matriculation Hr Sec School",
+            "photo": "https://drive.google.com/file/d/1_QEFWdoFJ-_hzyKDy3o8PQbapMYxdwS-/view?usp=drive_link"
+          },
+          {
+            "name": "Muhammad Salman Shah Al-Irfani",
+            "grade": "Grade 7",
+            "school": "Radiant Public School",
+            "photo": "https://drive.google.com/file/d/1NbYhWslGxdGsLXO9lziwm10myKPW3sT9/view?usp=drive_link"
+          },
+          {
+            "name": "Jyoti Joshi",
+            "grade": "Grade 8",
+            "school": "Savvy International School Center 2",
+            "photo": "https://drive.google.com/file/d/1rwxT2Tgj032axTRc1bnsgLZhpCwSiQs6/view?usp=drivesdk"
+          },
+          {
+            "name": "Ashwinkumar.S",
+            "grade": "Grade 8",
+            "school": "Hayagreever's Kongunad Academy (CBSE), D.Gudalur",
+            "photo": "https://drive.google.com/file/d/1h_WRhGAcQ3IoVNhRXE44WjwPHyLZpBjZ/view?usp=drive_link"
+          },
+          {
+            "name": "Sreeya S",
+            "grade": "Grade 7",
+            "school": "A.V.P Trust Matriculation School",
+            "photo": "https://drive.google.com/file/d/1BU8B1I0kbjeVjtFX0W_IlOmT3I0eYhlW/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "group": 3,
+        "mentor": "Ashish Jain",
+        "mentorPhoto": "/mentors/Ashish.jpg",
+        "project": "Reimagining the student app to better meet students' needs, and increase their engagement with the platform.",
+        "students": [
+          {
+            "name": "Ayushi Lalani",
+            "grade": "Grade 8",
+            "school": "Savvy International School, Morbi",
+            "photo": "https://drive.google.com/file/d/1H8lecbVapSZN71DjFS1vRdu2lM9ivm_O/view?usp=drive_link"
+          },
+          {
+            "name": "K.Deekshitha",
+            "grade": "Grade 8",
+            "school": "Nagarjuna Model School -Main Branch",
+            "photo": "https://drive.google.com/file/d/1Q5EK6plFD-qdjDZ7orqrTpxCjxwDgyhP/view?usp=drive_link"
+          },
+          {
+            "name": "Syed Arva",
+            "grade": "Grade 7",
+            "school": "Solace International School",
+            "photo": "https://drive.google.com/file/d/14yN0n8U4D-ZF7Bpa_V5AYhrDLhNGr0Cv/view?usp=drive_link"
+          },
+          {
+            "name": "Chinmay Nelge",
+            "grade": "Grade 8",
+            "school": "V.K. International School",
+            "photo": "https://drive.google.com/file/d/1Xg_1DRbYCsIXS5xQtDDenKd1t7SEQxky/view?usp=drive_link"
+          },
+          {
+            "name": "C. Safiyan",
+            "grade": "Grade 7",
+            "school": "Jeevananda E.M. School",
+            "photo": "https://drive.google.com/open?id=1zLNc77-2bZHKmaISPwr6eK-ul1Z-jYMw"
+          }
+        ]
+      },
+      {
+        "group": 4,
+        "mentor": "Sandeep Gulia",
+        "mentorPhoto": "/mentors/SandeepGulia.jpeg",
+        "project": "Creating opportunities to develop reading habits among students.",
+        "students": [
+          {
+            "name": "B. Vijith Abhilash",
+            "grade": "Grade 8",
+            "school": "Nagarjuna Model School -Main Branch",
+            "photo": "https://drive.google.com/file/d/1PicuQpsf8MiZIiuoPvEMA1w1mLNyzIqk/view?usp=sharing"
+          },
+          {
+            "name": "G.Mohammed Rayhan",
+            "grade": "Grade 8",
+            "school": "Bharath Matriculation Hr Sec School",
+            "photo": "https://drive.google.com/open?id=1Z0laVTkI39V5BcqrytWlLQH9unouVE-m"
+          },
+          {
+            "name": "Anamitra Singh Rathore",
+            "grade": "Grade 8",
+            "school": "Sai Shree International Academy",
+            "photo": "https://drive.google.com/file/d/1ufuXZvmXUm0d3MAktgqVsrF_-z6K-9Tw/view"
+          },
+          {
+            "name": "Manaswi R Shetty",
+            "grade": "Grade 7",
+            "school": "Vittal Jaycees English Medium School",
+            "photo": "https://drive.google.com/file/d/1FXC0903zT2Img1Q9G1Ix67q42UMyRKOY/view?usp=drive_link"
+          },
+          {
+            "name": "Anmolpreet Kaur",
+            "grade": "Grade 7",
+            "school": "Dashmesh Public Senior Secondary School",
+            "photo": "https://drive.google.com/file/d/14X3LDjdnjdXHVf1_TtpX7lTJQh6fmDFV/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "group": 5,
+        "mentor": "Shalini Bhattacharya",
+        "mentorPhoto": "/mentors/Shalini.jpeg",
+        "project": "Developing a comprehensive social media strategy for LEAD.",
+        "students": [
+          {
+            "name": "Khushboo Jain",
+            "grade": "Grade 9",
+            "school": "Nagarjuna Model School -Main Branch",
+            "photo": "https://drive.google.com/file/d/1gKGPXHOJ94Qjfu7YuagGGnMz22bzSpIN/view?usp=drive_link"
+          },
+          {
+            "name": "Shivanandi Yashaswini",
+            "grade": "Grade 8",
+            "school": "Geetha High School, Mombojipally",
+            "photo": "https://drive.google.com/file/d/13fqvZoyxhBPvrMDKVQmSRsoNlRNKgBUp/view?usp=drive_link"
+          },
+          {
+            "name": "Naman Kumar Tiwari",
+            "grade": "Grade 8",
+            "school": "Vidyodaya International School",
+            "photo": "https://drive.google.com/file/d/12ZL9XV0OE5Oda7YeZEoEg9-GubIbECN0/view?usp=drive_link"
+          },
+          {
+            "name": "Mohammed Muddassir",
+            "grade": "Grade 7",
+            "school": "St.Anthony's High School, Sangareddy",
+            "photo": "https://drive.google.com/file/d/1ZmgmiofmlFoeI2YBR4GFyRmUq6KrSmYz/view?usp=drive_link"
+          },
+          {
+            "name": "Shreyas Laxman Mahindrakar",
+            "grade": "Grade 7",
+            "school": "NMMC No. 93 (CBSE)",
+            "photo": "https://drive.google.com/file/d/1hHpz0SJknqqigU2KfVcGPiLYZytOrcfS/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "group": 6,
+        "mentor": "Jyoti Vatsal",
+        "mentorPhoto": "/mentors/JyotiVatsal.jpeg",
+        "project": "Create an Impactful Pitch Deck for New School Partnerships: Communicating the Value of LEAD.",
+        "students": [
+          {
+            "name": "Manda Vedasri",
+            "grade": "Grade 7",
+            "school": "St Anthony'S High School, Shanthi Nagar",
+            "photo": "https://drive.google.com/file/d/1vX4YYUPeicx_S4lO0y3YXzb7AZbZr86c/view?usp=drive_link"
+          },
+          {
+            "name": "S. Akshaya Sri",
+            "grade": "Grade 8",
+            "school": "Sri Vignesh Public School",
+            "photo": "https://drive.google.com/file/d/1ob8vzE7l2XdviZJBfSSthgYWzu3NDTNX/view?usp=drive_link"
+          },
+          {
+            "name": "Aditya Malik",
+            "grade": "Grade 8",
+            "school": "Uma Devi Childrens Academy, Gola",
+            "photo": "https://drive.google.com/file/d/1QYAc4cz2zJSmg6StuqPqu2ApIvrE9e8h/view?usp=drive_link"
+          },
+          {
+            "name": "Lahari R",
+            "grade": "Grade 8",
+            "school": "Chirec Public School",
+            "photo": "https://drive.google.com/file/d/10SlGXEap2mtsS1606geAl4YpG-nkZI7V/view?usp=drive_link"
+          },
+          {
+            "name": "Hritvik Raj Singh",
+            "grade": "Grade 7",
+            "school": "Mahita EM School",
+            "photo": "https://drive.google.com/file/d/1tKmPr7ROXiAi0hFOx6PzF97LZ4G71XNM/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "group": 7,
+        "mentor": "Guruprasad Holla",
+        "mentorPhoto": "/mentors/guruPrasad.jpg",
+        "project": "Devising innovative strategies to make at home learning fun and interesting.",
+        "students": [
+          {
+            "name": "Ansh Aditya Nanavare",
+            "grade": "Grade 8",
+            "school": "Master Mind Global English School",
+            "photo": "https://drive.google.com/open?id=1U82WpYPtvjeMb-7pq_rekdp5YjFAsuKu"
+          },
+          {
+            "name": "K Sudha Rupini",
+            "grade": "Grade 8",
+            "school": "Chaitanya Littles Talent School",
+            "photo": "https://drive.google.com/file/d/1Ux-rd67N6gDrGcBmIKz2SmvSUH74sdqj/view?usp=drive_link"
+          },
+          {
+            "name": "Yazhini. S",
+            "grade": "Grade 8",
+            "school": "Vidhya Vikashni Matric Higher Secondary School",
+            "photo": "https://drive.google.com/file/d/1rE40nkK2wcshFp1U5Fjkjx3Aim0eFI-4/view?usp=drive_link"
+          },
+          {
+            "name": "Sarbajit Mandal",
+            "grade": "Grade 7",
+            "school": "Sunrays High School, Palojori",
+            "photo": "https://drive.google.com/file/d/18azB1vL66plJVKedBHA-R_JvULYEm-DK/view?usp=drive_link"
+          },
+          {
+            "name": "Ganesh S",
+            "grade": "Grade 7",
+            "school": "Maruthi Vidya Kendra HPS, Belgumba",
+            "photo": "https://drive.google.com/file/d/1p6GPLpXABMbO-fynayiD_xBY1hnlK7Cg/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "group": 8,
+        "mentor": "Sangeeta Das",
+        "mentorPhoto": "/mentors/SangeetaDas.jpeg",
+        "project": "Creatively repurposing underutilized school spaces using the concept of Building as Learning Aid (BALA) to maximize their educational potential.",
+        "students": [
+          {
+            "name": "Mohammad Muskan",
+            "grade": "Grade 8",
+            "school": "Good Morning Grammer High School",
+            "photo": "https://drive.google.com/file/d/1QS0fwENPFy8bXp5fgjmSMUhLGgcuhrVm/view?usp=drive_link"
+          },
+          {
+            "name": "Dibya Deka",
+            "grade": "Grade 8",
+            "school": "St. Joseph's Public School",
+            "photo": "https://drive.google.com/file/d/1RWyix0JBqVa3YSLHe2QjAd9XhTdLgjlp/view?usp=drive_link"
+          },
+          {
+            "name": "Dharshika.K",
+            "grade": "Grade 7",
+            "school": "Venkatalakshmi Matriculation Higher Secondary School",
+            "photo": "https://drive.google.com/file/d/1XJQKiWA_dBjVeyQMasRi1PzTu6tZxfAL/view?usp=drive_link"
+          },
+          {
+            "name": "Chitteedi Kartheek Satya Vedanth",
+            "grade": "Grade 7",
+            "school": "Indian Digital School",
+            "photo": "https://drive.google.com/file/d/182ZAAwBF22DXEEhKzIe25xTHFI3ZJcZ1/view?usp=drive_link"
+          },
+          {
+            "name": "B.Rithin",
+            "grade": "Grade 8",
+            "school": "PMG Matric Hr Sec School",
+            "photo": "https://drive.google.com/file/d/10Kop_pdAn2w37auEQdtyGN6H_5VoX__s/view?usp=sharing"
+          },
+          {
+            "name": "Shrirang Abhijeet Pataskar",
+            "grade": "Grade 8",
+            "school": "Lead School, Mugavli",
+            "photo": "https://drive.google.com/open?id=1tnkHAALMaFFflvRCgKwz3s11Bs1NYBDW"
+          }
+        ]
+      },
+      {
+        "group": 9,
+        "mentor": "Siddharth Sonti",
+        "mentorPhoto": "/mentors/SidddharthSonti.jpeg",
+        "project": "Building innovative strategies to transform schools into eco-friendly and green spaces.",
+        "students": [
+          {
+            "name": "Tanishq Singh",
+            "grade": "Grade 8",
+            "school": "Montfort School, Ambikapur",
+            "photo": "https://drive.google.com/file/d/1kK5E7sQk4tAskRgkqquRxBWuLcz1fJ63/view?usp=drive_link"
+          },
+          {
+            "name": "Ydhyam Ananya",
+            "grade": "Grade 7",
+            "school": "St Peters's High School, Sangareddy",
+            "photo": "https://drive.google.com/file/d/15xFmVYbAiigILNRajE4CV0M-ctNqupsB/view?usp=drive_link"
+          },
+          {
+            "name": "Sreelakshmi.S",
+            "grade": "Grade 7",
+            "school": "AVP Trust National Matriculation Higher Secondary School",
+            "photo": "https://drive.google.com/file/d/1sBsJFDY7IbkNK6pc-z0Zt_kC3YzxheAA/view?usp=drive_link"
+          },
+          {
+            "name": "Yarramsetti Hima Bindu",
+            "grade": "Grade 8",
+            "school": "Maharshi Educational Society",
+            "photo": "https://drive.google.com/file/d/1YeF__qGZs0AYm64ed_NTvR99ofDl9dvT/view?usp=drive_link"
+          },
+          {
+            "name": "Vaiga Ratheesh",
+            "grade": "Grade 8",
+            "school": "Al Huda English School, Vandanam",
+            "photo": "https://drive.google.com/file/d/1XOFIird49tiyfP3Gz2Gofc4ZowtIoJQM/view?usp=drive_link"
+          },
+          {
+            "name": "Shlok Satish Gosavi",
+            "grade": "Grade 8",
+            "school": "Lead School, Kurduwadi",
+            "photo": "https://drive.google.com/file/d/196p2hQvYrdEQkIj4alSNFK4OlaamcCIQ/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "group": 10,
+        "mentor": "Nithika Yadav",
+        "mentorPhoto": "/mentors/Nithika.jpeg",
+        "project": "Designing a toolkit to promote kindness and enhance emotional well-being at home and school.",
+        "students": [
+          {
+            "name": "Arav Sharma",
+            "grade": "Grade 7",
+            "school": "Gurukul International Sr. Sec School",
+            "photo": "https://drive.google.com/file/d/1lXHyB4OridRlcb52L8TS5nddyNHgWOwE/view?usp=drive_link"
+          },
+          {
+            "name": "Shlok Pravin Laddha",
+            "grade": "Grade 8",
+            "school": "Oxford The Global School",
+            "photo": "https://drive.google.com/open?id=1Tt0Oby_K40sW20YjwE3OO5CrHdJaqRgc"
+          },
+          {
+            "name": "Shreya Santhosh",
+            "grade": "Grade 7",
+            "school": "St. Gregorios Central School, Karunagappally",
+            "photo": "https://drive.google.com/file/d/1g_jqDf50FJQATnVn3OPNgNF1cAD9p1mP/view?usp=drive_link"
+          },
+          {
+            "name": "Dhanvi . G",
+            "grade": "Grade 8",
+            "school": "Wisdom Education Trust",
+            "photo": "https://drive.google.com/file/d/1y72Qn9si5tDDauwr-QIU6vlK1RNQUG0p/view?usp=drive_link"
+          },
+          {
+            "name": "K.Bhavagna Sri",
+            "grade": "Grade 8",
+            "school": "Little Paradise",
+            "photo": "https://drive.google.com/file/d/1SMQFynKjfCyHvoRDeQnzC4CJZQnuVXvP/view?usp=drive_link"
+          }
+        ]
+      }
+    ]
+  }

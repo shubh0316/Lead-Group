@@ -1,0 +1,532 @@
+ [
+    {
+      "id": 1,
+      "School Name": "Ceoa Matriculation Hr.Sec.School.Melur",
+      "Student name": "S.Geethapriya",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1_Va78AntgzFxkyzDzqOuY6zOqfGvFMXK/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Geethapriya is curious, enthusiastic, and always ready to help. With dreams of becoming an aeronautical engineer, she loves painting, reading, and challenging friends to a game of carrom or chess. If she had a superpower, it’d be time travel—but her real goal is tackling pollution and helping the planet breathe easier."
+    },
+    {
+      "id": 2,
+      "School Name": "Nagamaniammal Memorial Matriculation Hr Sec School",
+      "Student name": "Anirudh Saji",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1_QEFWdoFJ-_hzyKDy3o8PQbapMYxdwS-/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Anirudh is enthusiastic, energetic, and always curious about how things work. A future ISRO scientist in the making, he’s into everything from trekking and sketching to building with mechanical kits and jamming on the keyboard. If he had a superpower, he’d wipe out poverty and illness—and his biggest dream? A world free of war and hate."
+    },
+    {
+      "id": 3,
+      "School Name": "Nagarjuna Model School -Main Branch",
+      "Student name": "K.Deekshitha",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1Q5EK6plFD-qdjDZ7orqrTpxCjxwDgyhP/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Deekshitha is crazy, confident, and unstoppable when it comes to chasing big goals. A future IITian in the making, she’s not just aiming for a top college—she’s aiming to solve real world problems. Between JEE prep she finds time for books, building new skills and chilling with family. Her dream superpower? Tapping into brilliant minds. And her mission? Redefining education so that creativity and real-world smarts matter more than just scores."
+    },
+    {
+      "id": 4,
+      "School Name": "Nagarjuna Model School -Main Branch",
+      "Student name": "B. Vijith Abhilash",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1PicuQpsf8MiZIiuoPvEMA1w1mLNyzIqk/view?usp=sharing",
+      "Student's video": "",
+      "Student Bio": ""
+    },
+    {
+      "id": 5,
+      "School Name": "Nagarjuna Model School -Main Branch",
+      "Student name": "Khushboo Jain",
+      "Student's grade": "Grade 9",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1gKGPXHOJ94Qjfu7YuagGGnMz22bzSpIN/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Khushboo is sophisticated, passionate, and tuned in to the world around her. A future entrepreneur with a passion for innovation, she loves watching motivational videos and engaging in peer learning. Her dream superpower? Making every product Made in India. Her mission? Ending gender discrimination in education and building safe spaces where every girl can thrive."
+    },
+    {
+      "id": 6,
+      "School Name": "Peace School",
+      "Student name": "Zara Rafiq",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1NZLlFD8jmm51YJ66Mck-5kVqWtWTZa2n/view?usp=sharing",
+      "Student's video": "",
+      "Student Bio": "Zara is mature, serious, and a natural leader. She has not decided on a career path yet, but one thing’s clear—she wants to be someone who inspires, uplifts, and makes a real impact. She loves journaling, reading, watching anime and playing volleyball. Her dream superpower? A Doraemon-style gateway to alternate worlds—perfect for exploring endless possibilities. Her mission? To end judgment and help people see each other for who they truly are."
+    },
+    {
+      "id": 7,
+      "School Name": "Radiant Public School",
+      "Student name": "Muhammad Salman Shah Al-Irfani",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1NbYhWslGxdGsLXO9lziwm10myKPW3sT9/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Muhammad Salman is ambitious, adventurous, and unafraid to question the world around him. With big dreams of becoming the UN General Secretary, he thrives on debating, experimenting, traveling, and cooking. His ideal superpower? Removing crime from the soul of criminals. His mission? Bringing peace by resolving international tensions."
+    },
+    {
+      "id": 8,
+      "School Name": "Solace International School",
+      "Student name": "Syed Arva",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/14yN0n8U4D-ZF7Bpa_V5AYhrDLhNGr0Cv/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Arva is creative, imaginative, and endlessly curious. With no fixed destination but a clear direction, she’s on a mission to grow in wisdom, purpose, and impact. Her world is filled with fantasy stories, stargazing, sketching, poems, and experiments—all fueled by a vivid imagination. If gifted a superpower, she'd choose ChronoVerse Touch—to reflect, heal, and help others understand themselves better. Her dream? To restore inner peace and empathy in a world that deeply needs both."
+    },
+    {
+      "id": 9,
+      "School Name": "Bharath Matriculation Hr Sec School",
+      "Student name": "G.Mohammed Rayhan",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/open?id=1Z0laVTkI39V5BcqrytWlLQH9unouVE-m",
+      "Student's video": "https://drive.google.com/drive/folders/1QdmSrlpVkNydHwSUlcYgm203kKSdfSJs?usp=drive_link",
+      "Student Bio": "Mohammed Rayhan is supportive, passionate, and ambitious—an engineer in the making with a love for cricket, cycling, and books. If he had a superpower, he’d travel through time to fix past mistakes. His dream is to end poverty and build a better future."
+    },
+    {
+      "id": 10,
+      "School Name": "Geetha High School - Mombojipally",
+      "Student name": "Shivanandi Yashaswini",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/13fqvZoyxhBPvrMDKVQmSRsoNlRNKgBUp/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Yashaswini is ambitious, confident, and full of energy. With dreams of becoming an IAS officer, she spends her time reading, dancing, and drawing. If she had a superpower, she’d love to read minds—so she could help solve people’s problems and bring more happiness around her. Her biggest goal? Boosting literacy and making sure every child gets the education they deserve."
+    },
+    {
+      "id": 11,
+      "School Name": "St Anthony'S High School - Shanthi Nagar",
+      "Student name": "Manda Vedasri",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1vX4YYUPeicx_S4lO0y3YXzb7AZbZr86c/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Manda Vedasri is intelligent, disciplined, and always respectful. A future software engineer, she enjoys dancing, reading, and playing indoor games. If she had a superpower, she’d pick invisibility—but her real-world mission is clear: reducing plastic use to help protect the planet."
+    },
+    {
+      "id": 12,
+      "School Name": "St Peters's High School Sangareddy",
+      "Student name": "Ydhyam Ananya",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/15xFmVYbAiigILNRajE4CV0M-ctNqupsB/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Meet Ananya — active, talented, and generous, with big ideas and an even bigger heart. A creative soul who loves craft, vlogging, and playing games, she’s on a mission to become a transformative leader. Her dream? To shift mindsets, unlock India’s full potential, and help erase poverty from the planet. Change-maker in the making!"
+    },
+    {
+      "id": 13,
+      "School Name": "St.Anthony's High School, Sangareddy",
+      "Student name": "Mohammed Muddassir",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1ZmgmiofmlFoeI2YBR4GFyRmUq6KrSmYz/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "MOHAMMED MUDDASSIR is passionate, creative, and a true team player. He is an aspiring computer scientist with a love for reading and learning. If he had a superpower, he’d reshape how people see education—because for him, solving the problem of quality education is the key to a better world."
+    },
+    {
+      "id": 14,
+      "School Name": "Chaitanya Littles Talent School",
+      "Student name": "K Sudha Rupini",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1Ux-rd67N6gDrGcBmIKz2SmvSUH74sdqj/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Sudha is curious, creative, and determined to make a difference. With dreams of becoming a social reformer, she loves diving into books and unwinding with games. If she had a superpower, she’d speak every language—because connection matters. Her mission? Taking on climate change and creating a better world for everyone."
+    },
+    {
+      "id": 15,
+      "School Name": "Savvy International School - Morbi",
+      "Student name": "Ayushi Lalani",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": " https://drive.google.com/file/d/1uNCKsCn1n9rGji-p0R0oHgPDR9XVq7hh/view?usp=drive_link",
+      "Student's video": "https://drive.google.com/file/d/1n8UE56Cr9abm6CjoNZXjhjKEiiorSFQ3/view?usp=sharing",
+      "Student Bio": "Aayushi dreams of becoming a pilot or businesswoman one day. She brings creativity and curiosity to everything she does. She loves drawing and singing, and if given a choice to have a superpower, she’d choose mind reading to better understand people’s thoughts. Passionate about fairness, Aayushi believes strongly in equality and hopes to one day help end discrimination around the world."
+    },
+    {
+      "id": 16,
+      "School Name": "Savvy International School Center 2",
+      "Student name": "Jyoti Joshi",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1rwxT2Tgj032axTRc1bnsgLZhpCwSiQs6/view?usp=drivesdk",
+      "Student's video": "",
+      "Student Bio": "Jyoti has big dreams and an even bigger heart. She's imaginative, innovative, and always curious—qualities that drive her goal of becoming a cardiologist. Her hobbies, dancing and reading, help her express herself and explore new ideas. Jyoti’s dream superpower? Spreading kindness. She wants to support those who can't afford food, shelter, or medical help. She also hopes to tackle global issues like pollution to keep the planet clean and green."
+    },
+    {
+      "id": 17,
+      "School Name": "Sri Vignesh Public School",
+      "Student name": "S. Akshaya Sri",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1ob8vzE7l2XdviZJBfSSthgYWzu3NDTNX/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Akshaya is versatile, determined, and always thinking ahead. Aspiring to be an IAS officer, she brings creativity to life through drawing, dancing, singing, and smashing it on the badminton court. If she had a superpower, she’d use it to solve everyone’s problems—starting with her biggest goal: ending poverty for good."
+    },
+    {
+      "id": 18,
+      "School Name": "Jeevananda E.M. School",
+      "Student name": "C. Safiyan",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/open?id=1zLNc77-2bZHKmaISPwr6eK-ul1Z-jYMw",
+      "Student's video": "",
+      "Student Bio": "Safiyan is loyal, trustworthy, and a true hard worker. With dreams of becoming a scientist, he enjoys playing, learning, watching TV—and yes, catching some well-deserved sleep. If he had a superpower, he’d use it to help anyone in need. His favorite challenge? Solving math problems like a pro!"
+    },
+    {
+      "id": 19,
+      "School Name": "Dashmesh Public Senior Secondary School",
+      "Student name": "Anmolpreet Kaur",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/14X3LDjdnjdXHVf1_TtpX7lTJQh6fmDFV/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Anmolpreet is confident, loyal, and caring at heart. With dreams of becoming a doctor, she spends her free time drawing and singing. If she had a superpower, it’d be the ability to heal any illness in an instant. Her biggest mission? Ending poverty and making sure everyone has the essentials to live a better life."
+    },
+    {
+      "id": 20,
+      "School Name": "A.V.P Trust Matriculation School",
+      "Student name": "Sreeya S",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1BU8B1I0kbjeVjtFX0W_IlOmT3I0eYhlW/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Sreeya is honest, hardworking, and sincere—someone who stands by her values. With dreams of becoming a lawyer, she balances her free time between singing and smashing it on the badminton court. If she had a superpower, she’d read minds to understand people better. Her ultimate mission? To help end wars and bring peace between nations."
+    },
+    {
+      "id": 21,
+      "School Name": "Avp Trust National Matriculation Higher Secondary School",
+      "Student name": "Sreelakshmi.S",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1sBsJFDY7IbkNK6pc-z0Zt_kC3YzxheAA/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Sreelakshmi is enthusiastic, hardworking, and a true positive thinker. With dreams of becoming a cognitive psychologist, she finds joy in reading, dancing, gardening, and drawing. If she had a superpower, she'd use it to bring peace to the world. Her biggest goal? Restoring humanity and kindness where it's been lost."
+    },
+    {
+      "id": 22,
+      "School Name": "Little Flower Matriculation Hr. Sec School",
+      "Student name": "Tejasri. J. U",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1h2YmSLKzvhTynSFTvAIPlg7jw7CR4RDi/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Tejasri is confident, creative, and intelligent—with big dreams of becoming a Collector. She loves reading, picking up new languages, and relaxing with some TV time. If she had a superpower, she’d explore the Milky Way galaxy. But here on Earth, her mission is clear: to take a stand against corruption and make the system better."
+    },
+    {
+      "id": 23,
+      "School Name": "Vittal Jaycees English Medium School",
+      "Student name": "Manaswi R Shetty",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1FXC0903zT2Img1Q9G1Ix67q42UMyRKOY/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": ""
+    },
+    {
+      "id": 24,
+      "School Name": "Little Paradise",
+      "Student name": "K.Bhavagna Sri",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1SMQFynKjfCyHvoRDeQnzC4CJZQnuVXvP/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": ""
+    },
+    {
+      "id": 25,
+      "School Name": "V.K. International School",
+      "Student name": "Chinmay Nelge",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1Xg_1DRbYCsIXS5xQtDDenKd1t7SEQxky/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Chinmay is enthusiastic, friendly, and always dependable. He dreams of becoming a doctor, and spends his free time playing cricket, reading stories, and singing. If he could pick any superpower, it’d be invisibility—pretty cool, right? His biggest mission? Wiping out corruption to help build a fairer world."
+    },
+    {
+      "id": 26,
+      "School Name": "Master Mind Global English School",
+      "Student name": "Ansh Aditya Nanavare",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/open?id=1U82WpYPtvjeMb-7pq_rekdp5YjFAsuKu",
+      "Student's video": "",
+      "Student Bio": "Ansh is smart, quick, and observant—always thinking a step ahead. A future computer scientist, he enjoys strumming the guitar, mastering chess moves, and hitting home runs in baseball. If he had a superpower, he’d teleport anywhere in a flash. His mission? To help end gender discrimination and create a fairer world for all."
+    },
+    {
+      "id": 27,
+      "School Name": "Oxford The Global School",
+      "Student name": "Shlok Pravin Laddha",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/open?id=1Tt0Oby_K40sW20YjwE3OO5CrHdJaqRgc",
+      "Student's video": "",
+      "Student Bio": "Shlok is ambitious, curious, and never backs down from a challenge. A future software developer, he’s all about coding, football, piano, and great books. If he had a superpower, he’d master complex code in seconds. His mission? Making quality education accessible to every student who’s eager to learn."
+    },
+    {
+      "id": 28,
+      "School Name": "Chirec Public School",
+      "Student name": "Lahari R",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": " https://drive.google.com/file/d/10SlGXEap2mtsS1606geAl4YpG-nkZI7V/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Lahari is educated, talented, and always ready to help. She dreams of becoming a doctor and loves spending her time drawing and playing outdoor games. If she had a superpower, she’d travel through time—but her real mission is tackling poverty, unemployment, and blind beliefs to help build a smarter, stronger world."
+    },
+    {
+      "id": 29,
+      "School Name": "Maruthi Vidya Kendra Hps Belgumba",
+      "Student name": "Ganesh S",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1p6GPLpXABMbO-fynayiD_xBY1hnlK7Cg/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Ganesh is full of enthusiasm for science and nature. He dreams of becoming a doctor and spends his time sketching, playing badminton, and enjoying cricket. If he had a superpower, he’d soar through the sky. His goal? To help build a better world by wiping out corruption."
+    },
+    {
+      "id": 30,
+      "School Name": "St. Joseph'S Public School",
+      "Student name": "Dibya Deka",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1RWyix0JBqVa3YSLHe2QjAd9XhTdLgjlp/view?usp=drive_link",
+      "Student's video": "https://drive.google.com/drive/folders/1rJ6ytoqJ1O9Af7jYU73kEJuXdgo93o64?usp=drive_link",
+      "Student Bio": "Dibya describes herself as curious, helpful, and serious. She is passionate about helping people and creating a more equal world. When she’s not studying, you’ll find her painting, writing essays, or recording songs just for fun."
+    },
+    {
+      "id": 31,
+      "School Name": "Uma Devi Childrens Academy-Gola",
+      "Student name": "Aditya Malik",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1QYAc4cz2zJSmg6StuqPqu2ApIvrE9e8h/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Aditya is confident, innovative, and full of fresh ideas. He’s set on becoming a businessman with a creative twist. When he’s not sketching, reading, or playing games, he’s dreaming about time travel. His big goal? Taking on climate change and building a better future."
+    },
+    {
+      "id": 32,
+      "School Name": "Al Huda English School, Vandanam",
+      "Student name": "Vaiga Ratheesh",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1XOFIird49tiyfP3Gz2Gofc4ZowtIoJQM/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Meet Vaiga Ratheesh — a diligent, resilient, and kind-hearted future doctor. When not lost in books or sketching away, he's dreaming about shrinking down to explore the human body from the inside. Passionate about healing both people and the planet, the is set on tackling pollution and making the world a healthier place for all."
+    },
+    {
+      "id": 33,
+      "School Name": "St. Gregorios Central School, Karunagappally",
+      "Student name": "Shreya Santhosh",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1g_jqDf50FJQATnVn3OPNgNF1cAD9p1mP/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Shreya is confident, ambitious, and resilient—with her eyes set on the skies. Aspiring to be a pilot, she expresses her creativity through dancing, reading, music, and exploring the unusual. Her dream superpower? Controlling trash with telekinesis to keep India clean. Her biggest mission? Making education equal and accessible for all."
+    },
+    {
+      "id": 34,
+      "School Name": "Pmg Matric Hr Sec School",
+      "Student name": "B.Rithin",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/10Kop_pdAn2w37auEQdtyGN6H_5VoX__s/view?usp=sharing",
+      "Student's video": "",
+      "Student Bio": "Rithin is adaptive, determined, and endlessly curious. With dreams of launching an AI company in the medical field, he spends his time drawing, reading e-books, and picking up new languages. If he had a superpower, it’d be superspeed—to move fast and make change even faster. His mission? To help end world hunger."
+    },
+    {
+      "id": 35,
+      "School Name": "Venkatalakshmi Matriculation Higher Secondary School",
+      "Student name": "Dharshika.K",
+      "Student's grade": "Grade 7",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1XJQKiWA_dBjVeyQMasRi1PzTu6tZxfAL/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Dharshika is ambitious, passionate, and driven to lead with purpose. A curious mind who loves reading, learning, and exploring, she dreams of becoming a leader who inspires real change. If she had the power of time travel, she'd rewrite the past—but her true mission is tackling education inequality and making a lasting impact on the world."
+    },
+    {
+      "id": 36,
+      "School Name": "Vidhya Vikashni Matric Higher Secondary School",
+      "Student name": "Yazhini. S",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1rE40nkK2wcshFp1U5Fjkjx3Aim0eFI-4/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Yazhini is kind, artistic, and full of energy. She dreams of becoming an entrepreneur and loves dancing, listening to music, and playing the keyboard. If she had a superpower, she’d replace every bad thought with a good one. Her goal? To help clean up the world by tackling pollution."
+    },
+    {
+      "id": 37,
+      "School Name": "Good Morning Grammer High School",
+      "Student name": "Mohammad Muskan",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1QS0fwENPFy8bXp5fgjmSMUhLGgcuhrVm/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Mohammad Muskan is curious, kind, and always reaching for the stars—literally. With dreams of becoming an astronaut, she spends her time reading stories, watching space videos, and enjoying moments with family. If she had a superpower, she’d build her own spacecraft to explore the solar system. But here on Earth, her mission is just as big: ending world hunger."
+    },
+    {
+      "id": 38,
+      "School Name": "Montfort School Ambikapur",
+      "Student name": "Tanishq Singh",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1kK5E7sQk4tAskRgkqquRxBWuLcz1fJ63/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": ""
+    },
+    {
+      "id": 39,
+      "School Name": "Sai Shree International Academy",
+      "Student name": "Anamitra Singh Rathore",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1ufuXZvmXUm0d3MAktgqVsrF_-z6K-9Tw/view?usp=sharing",
+      "Student's video": "",
+      "Student Bio": ""
+    },
+    {
+      "id": 40,
+      "School Name": "Vidyodaya International School",
+      "Student name": "Naman Kumar Tiwari",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/12ZL9XV0OE5Oda7YeZEoEg9-GubIbECN0/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": ""
+    },
+    {
+      "id": 41,
+      "School Name": "Nmmc No. 93 (Cbse)",
+      "Student name": "Shreyas Laxman Mahindrakar",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1hHpz0SJknqqigU2KfVcGPiLYZytOrcfS/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Shreyas is kind, confident, and sharp-minded, with big dreams of becoming a surgeon. He loves writing, cycling, and exploring new places. If gifted a superpower, he'd want to understand what’s in others' minds and hearts. His mission? Fight climate pollution and help make Earth cleaner, safer, and healthier for everyone."
+    },
+    {
+      "id": 42,
+      "School Name": "Sunrays High School, Palojori",
+      "Student name": "Sarbajit Mandal",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/18azB1vL66plJVKedBHA-R_JvULYEm-DK/view?usp=drive_link",
+      "Student's video": "https://drive.google.com/drive/folders/1FHfbZLkrPe0wq__52slsQUbt1rv2HXUt?usp=sharing",
+      "Student Bio": "Sarabjit is a calm, curious, and kind student with a big dream of becoming a doctor. When he’s not reading or playing cricket, he’s thinking about how to help others. From providing food and medicine to ensuring clean water for all, Sarabjit believes in using knowledge and compassion to make the world better."
+    },
+    {
+      "id": 43,
+      "School Name": "Indian Digital School",
+      "Student name": "Chitteedi Kartheek Satya Vedanth",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/182ZAAwBF22DXEEhKzIe25xTHFI3ZJcZ1/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Kartheek is confident, hardworking, and quick to learn. With dreams of becoming an I.A.S officer, he’s loves watching crime thrillers, exploring new topics, and even cooking up a dish or two. If he had one superpower? He’d become an I.A.S officer right now and start solving the world’s water crisis—turning salt water into safe, clean drinking water for everyone."
+    },
+    {
+      "id": 44,
+      "School Name": "Maharshi Educational Society",
+      "Student name": "Yarramsetti Hima Bindu",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1YeF__qGZs0AYm64ed_NTvR99ofDl9dvT/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Hima Bindu is a bright 8th grader with big dreams of becoming a civil engineer. She loves getting lost in books and caring for plants in her free time. If she had a superpower, she’d choose time control—to relive the good, fix the mistakes, and make every moment count."
+    },
+    {
+      "id": 45,
+      "School Name": "Maithry Vidyaniketan School",
+      "Student name": "Kashyap R Nambiar",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1UdesG2iNB-wlkNIZjOXfatFsq5WDgkBk/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Kashyap is a space enthusiast with a creative spark and a curious mind. From sketching and singing to building robots with Arduino, he’s always exploring something new. His dream? Study at IISC and work with ISRO. If he had telekinesis, he’d bend the world to his ideas—starting with solving Earth’s energy crisis by building the first-ever fusion reactor."
+    },
+    {
+      "id": 46,
+      "School Name": "Sristi Global School",
+      "Student name": "Jazeel Hatim",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/open?id=1kRgaeK24hYRlYsp6E__AA_KF07Ay85u2",
+      "Student's video": "",
+      "Student Bio": "Jazeel is curious, positive, and always ready to support others. Still exploring his path, he’s confident that whatever he chooses, he’ll excel. He loves cracking puzzles, discovering new ideas, and getting lost in books. If he had a superpower, he’d master complex topics in no time—just to ace exams and help friends too. His biggest goal? Tackling climate change and protecting the planet for the future."
+    },
+    {
+      "id": 47,
+      "School Name": "Wisdom Education Trust",
+      "Student name": "Dhanvi . G",
+      "Student's grade": "Grade 8",
+      "Gender": "Female",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1y72Qn9si5tDDauwr-QIU6vlK1RNQUG0p/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Dhanvi is genuine, confident, and all about self-love. With big dreams of becoming a heart surgeon, she finds peace in sketching and painting. If given a superpower, she’d choose invisibility—but her real goal is bold and clear: to help end the harassment of girls and make the world safer for them."
+    },
+    {
+      "id": 48,
+      "School Name": "Gurukul International Sr. Sec School",
+      "Student name": "Arav Sharma",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1lXHyB4OridRlcb52L8TS5nddyNHgWOwE/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Arav is a bold dreamer aiming for the stars—literally. Future astronaut, sports enthusiast, piano player, and book lover, he is versatile and passionate. Driven to create a cleaner world and end violence based on race, religion, or caste, he is not just reaching for space—he also wants a better world."
+    },
+    {
+      "id": 49,
+      "School Name": "Delhi Public School Lagma",
+      "Student name": "Ayushman Prakash",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/open?id=1kvkPwTWmz0Oxv37eJp1DLtudu-QOmHCx",
+      "Student's video": "",
+      "Student Bio": "Ayushman is kind, honest, and hardworking, with big dreams of becoming an I.A.S officer. A true cricket fan, he loves playing and watching the game and unwinding with a good movie. If he had a superpower, he’d heal the problems of good people. His bold mission? To take on the world’s biggest challenge: stupidity."
+    },
+    {
+      "id": 50,
+      "School Name": "Mahita Em School",
+      "Student name": "Hritvik Raj Singh",
+      "Student's grade": "Grade 7",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": " https://drive.google.com/file/d/15vBT8P-ksMwIpA6UOVmTgvj5m6kOgP2C/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Hritvik is curious, determined, and full of creative energy. With a goal of becoming an IAS officer, he spends his free time playing cricket and diving into books. If granted a superpower, he’d choose omniscient empathy—to truly understand and help others. His biggest mission? Ending poverty and ensuring everyone has food, water, and a safe place to live."
+    },
+    {
+      "id": 51,
+      "School Name": "Hayagreever's Kongunad Academy (Cbse), D.Gudalur",
+      "Student name": "Ashwinkumar.S",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/1h_WRhGAcQ3IoVNhRXE44WjwPHyLZpBjZ/view?usp=drive_link",
+      "Student's video": "",
+      "Student Bio": "Ashwinkumar is confident, brave, and quietly determined. He dreams of becoming a doctor who’s remembered for making a real difference. Whether he’s playing on his phone or hitting the volleyball court, he brings energy to everything he does. His dream superpower? Ultimate healing magic. His mission? Ending famine and bringing hope to the hungry."
+    },
+    {
+      "id": 52,
+      "School Name": "Lead School Mugavli",
+      "Student name": "Shrirang Abhijeet Pataskar",
+      "Student's grade": "Grade 8",
+      "Gender": "Male",
+      "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/open?id=1tnkHAALMaFFflvRCgKwz3s11Bs1NYBDW",
+      "Student's video": "",
+      "Student Bio": "Shrirang is intelligent, smart, and responsible. While he's still figuring out what he wants to become when he grows up, he’s busy enjoying chess, football, handball, swimming, gaming, and reading. If he had a superpower, it’d be to bring anything he imagines to life. His goal? To tackle pollution, unemployment, and the low literacy rate—and help build a better world."
+    },
+    {
+        "id": 53,
+        "School Name": "Lead School, Kurduwali",
+        "Student name": "Shlok Satish Gosavi",
+        "Student's grade": "Grade 8",
+        "Gender": "Male",
+        "Student's photo (In school uniform) - For all social media communication": "https://drive.google.com/file/d/196p2hQvYrdEQkIj4alSNFK4OlaamcCIQ/view",
+        "Student's video": "",
+        "Student Bio": "Shlok is influential, visionary, and resilient—with a kind heart and a limitless mindset. He’s set on becoming a successful businessman and loves everything from sports and video games to exercising and making new friends. If he had a superpower, he’d travel through time. His mission? To break the illusion of get-rich-quick gaming apps and help people focus on real growth."
+      }
+  ]
