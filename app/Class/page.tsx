@@ -44,7 +44,7 @@ function Page() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {/* Map through student cards */}
           {students.map((student) => (
-            <Card key={student.id} className="hover:shadow-md border-none transition-shadow bg-white p-6">
+            <Card key={student.id} className="hover:shadow-md border-none rounded-lg transition-shadow bg-white p-6">
               <div className="flex flex-row">
                 {/* Image container - left side */}
                 <div className="relative w-1/3 h-48 bg-gray-100 rounded-xl overflow-hidden">
