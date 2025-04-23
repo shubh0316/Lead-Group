@@ -68,27 +68,24 @@ function Page() {
                 
                 {/* Text content - right side */}
                 <div className="w-2/3 pl-4">
-                  <CardHeader className="p-0 pb-2">
-                    <CardTitle className="text-lg sm:text-xl">
-                      {student["Student name"]}
-                    </CardTitle>
-                    <CardDescription className="flex items-center text-sm whitespace-nowrap overflow-hidden">
-  <span className='text-[#1F1463] font-extralight'>{student["Student's grade"]}</span>
-  <span className="mx-1 text-[#1F1463] font-extralight">|</span>
-  <span className='text-[#1F1463] font-extralight'>{student["Gender"]}</span>
-  <span className="mx-1 text-[#1F1463] font-extralight">|</span>
-  <span 
-    className='text-[#1F1463] font-extralight truncate'
-    title={student["School Name"]} // Shows full text on hover
-  >
-    {student["School Name"]}
-  </span>
-</CardDescription>
-                  </CardHeader>
-                  <CardContent className="p-0 pt-2">
-                    <p className='text-sm text-gray-600'>{student["Student Bio"]}</p>
-                  </CardContent>
-                </div>
+  <CardHeader className="p-0 pb-2">
+    <CardTitle className="text-lg sm:text-xl">
+      {student["Student name"]}
+    </CardTitle>
+    <CardDescription className="flex flex-wrap items-center text-sm">
+      <span className='text-[#1F1463] font-extralight'>{student["Student's grade"]}</span>
+      <span className="mx-1 text-[#1F1463] font-extralight">|</span>
+      <span className='text-[#1F1463] font-extralight'>{student["Gender"]}</span>
+      <span className="mx-1 text-[#1F1463] font-extralight">|</span>
+      <span className='text-[#1F1463] font-extralight whitespace-normal break-all'>
+        {student["School Name"]}
+      </span>
+    </CardDescription>
+  </CardHeader>
+  <CardContent className="p-0 pt-2">
+    <p className='text-sm text-gray-600'>{student["Student Bio"]}</p>
+  </CardContent>
+</div>
               </div>
             </Card>
           ))}

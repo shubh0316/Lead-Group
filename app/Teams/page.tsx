@@ -57,7 +57,7 @@ function Page() {
                                             <span className="text-gray-600">Mentored by:</span>
                                             <div className="flex items-center space-x-3">
                                                 {group.mentorPhoto ? (
-                                                    <div className="h-10 w-10 rounded-full overflow-hidden">
+                                                    <div className="h-14 w-14 rounded-full overflow-hidden">
                                                         <Image
                                                             src={group.mentorPhoto}
                                                             width={40}
@@ -76,7 +76,10 @@ function Page() {
                                                         alt={group.mentor}
                                                     />
                                                 )}
+                                                <div className='flex flex-col'>  
                                                 <span className="font-semibold text-[#221E52] text-lg">{group.mentor}</span>
+                                                <span className="font-normal text-[#221E52] text-md">{group.designation}</span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

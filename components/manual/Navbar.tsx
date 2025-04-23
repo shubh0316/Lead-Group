@@ -19,7 +19,7 @@ function Navbar() {
             <Image 
               src={logo} 
               alt="Logo" 
-              className="w-60 h-4 md:w-80 md:h-4"
+              className="w-60 md:w-80 md:h-4"
               priority
             />
           </div>

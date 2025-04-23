@@ -5,6 +5,7 @@
         "group": 1,
         "mentor": "Loluck Baby",
         "mentorPhoto": "/mentors/LoluckBaby.jpeg",
+        "designation": "Senior Zonal Academic Excellence Director, LEAD Group",
         "project": "Creating a New Parent Orientation Deck and strategies to increase parent attendance in school events.",
         "students": [
           {
@@ -49,6 +50,7 @@
         "group": 2,
         "mentor": "AV Krishna Chaitanya",
         "mentorPhoto": "/mentors/KrishnaChaitanya.jpeg",
+        "designation": "Zonal Academic Excellence Director, LEAD Group",
         "project": "Creating a framework for vocational studies curriculum in line with NCF.",
         "students": [
           {
@@ -87,6 +89,7 @@
         "group": 3,
         "mentor": "Ashish Jain",
         "mentorPhoto": "/mentors/Ashish.jpg",
+        "designation": "Senior Director, Technology, LEAD Group",
         "project": "Reimagining the student app to better meet students' needs, and increase their engagement with the platform.",
         "students": [
           {
@@ -125,6 +128,7 @@
         "group": 4,
         "mentor": "Sandeep Gulia",
         "mentorPhoto": "/mentors/SandeepGulia.jpeg",
+        "designation": "Zonal Academic Excellence Director, LEAD Group",
         "project": "Creating opportunities to develop reading habits among students.",
         "students": [
           {
@@ -163,6 +167,7 @@
         "group": 5,
         "mentor": "Shalini Bhattacharya",
         "mentorPhoto": "/mentors/Shalini.jpeg",
+        "desingation": "Assistant Vice President, Communications & Public Relations, LEAD Group",
         "project": "Developing a comprehensive social media strategy for LEAD.",
         "students": [
           {
@@ -201,6 +206,7 @@
         "group": 6,
         "mentor": "Jyoti Vatsal",
         "mentorPhoto": "/mentors/JyotiVatsal.jpeg",
+        "designation": "Vice President, Marketing, LEAD Group",
         "project": "Create an Impactful Pitch Deck for New School Partnerships: Communicating the Value of LEAD.",
         "students": [
           {
@@ -239,6 +245,7 @@
         "group": 7,
         "mentor": "Guruprasad Holla",
         "mentorPhoto": "/mentors/guruPrasad.jpg",
+        "designation": "Senior Vice President, Engineering, LEAD Group", 
         "project": "Devising innovative strategies to make at home learning fun and interesting.",
         "students": [
           {
@@ -277,6 +284,7 @@
         "group": 8,
         "mentor": "Sangeeta Das",
         "mentorPhoto": "/mentors/SangeetaDas.jpeg",
+        "designation": "Curriculum Development Director, LEAD Group",
         "project": "Creatively repurposing underutilized school spaces using the concept of Building as Learning Aid (BALA) to maximize their educational potential.",
         "students": [
           {
@@ -321,6 +329,7 @@
         "group": 9,
         "mentor": "Siddharth Sonti",
         "mentorPhoto": "/mentors/SidddharthSonti.jpeg",
+        "designation": "Curriculum Development Director, LEAD Group",
         "project": "Building innovative strategies to transform schools into eco-friendly and green spaces.",
         "students": [
           {
@@ -365,6 +374,7 @@
         "group": 10,
         "mentor": "Nithika Yadav",
         "mentorPhoto": "/mentors/Nithika.jpeg",
+        "designation": "Vice President- Academic Content Development, LEAD Group",
         "project": "Designing a toolkit to promote kindness and enhance emotional well-being at home and school.",
         "students": [
           {

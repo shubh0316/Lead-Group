@@ -29,7 +29,7 @@ function WhoAreWe() {
                 {/* Content */}
                 <div className="max-w-7xl md:mb-12 text-start font-normal leading-tight tracking-wider">
                     <p className="text-lg md:text-xl text-center text-[#221E52]">
-                        The top 50 students from the most progressive schools of the country who have cleared a rigorous selection process get to participate in this program.
+                        The top 53 students from the most progressive schools of the country who have cleared a rigorous selection process get to participate in this program.
                     </p>
                 </div>
     
