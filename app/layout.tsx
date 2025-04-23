@@ -1,13 +1,8 @@
 import type { Metadata } from "next";
-import { Montserrat } from "next/font/google";
 import "./globals.css";
+import { gotham } from '@/app/font'; 
 import Navbar from "@/components/manual/Navbar";
 import Footer from "./Footer";
-
-export const montserrat = Montserrat({
-  subsets: ["latin"],
-  variable: "--font-montserrat",
-});
 
 export const metadata: Metadata = {
   title: "Young India Program",
@@ -20,10 +15,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${montserrat.variable} font-gotham bg-white text-[#1E1464CC] antialiased`}
-      >
+    <html lang="en" className={`${gotham.variable}`}>
+      <body className="font-sans bg-white  antialiased">
         <Navbar />
         {children}
         <Footer />

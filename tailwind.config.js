@@ -7,7 +7,7 @@ module.exports = {
       extend: {
         extend: {
           fontFamily: {
-            gotham: ['GothamBook'],
+            sans: ['var(--font-gotham)', 'sans-serif'],
           },
         },
       },
